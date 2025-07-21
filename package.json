@@ -3,6 +3,9 @@
   "description": "NocoDB Root",
   "private": true,
   "packageManager": "pnpm@8.6.0",
+  "engines": {
+    "node": "18.x"
+  },
   "author": {
     "name": "NocoDB Inc",
     "url": "https://nocodb.com/"
